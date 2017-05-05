@@ -1,5 +1,4 @@
-
 module.exports = {
-    thinkURL : 'your_think_url',
-    senseId  : 'your_sense_id'
+    thinkURL: 'http://humix-test-taipei.mybluemix.net',
+    //senseId  : 'your_sense_id'
 }
