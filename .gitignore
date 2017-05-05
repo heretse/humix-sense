@@ -12,6 +12,7 @@
 coverage
 credentials.json
 flows*.json
+modules
 nodes/node-red-nodes/
 node_modules
 public
