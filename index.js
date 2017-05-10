@@ -1,4 +1,4 @@
-const AUDIO_BOX_ID_PREFIX = "Humix-AudioBox-";
+const AUDIO_BOX_ID_PREFIX = "audiobox-";
 
 var agent = require('./agent'),
     nats = require('nats').connect(),
